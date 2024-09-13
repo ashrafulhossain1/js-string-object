@@ -1,0 +1,5 @@
+https://github.com/ProgrammingHero1/js-object-tasks
+
+https://github.com/ProgrammingHero1/js-string-tasks
+
+module 20
